@@ -4,9 +4,9 @@
 
 Author: Akashdeep Samra
 
-Link to GH page site: []
+Link to GH page site: [https://aksamra56.github.io/cpnt262-individual-project/]
 
-Link to GH repo: []
+Link to GH repo: [https://github.com/aksamra56/cpnt262-individual-project.git]
 
 # Above and Beyond:
 
