@@ -4,15 +4,15 @@
 
 Author: Akashdeep Samra
 
-Link to GH page site: [] Pearson
+Link to GH page site: []
 
 Link to GH repo: []
 
 # Above and Beyond:
-TBA
-I chose TBA... I created TBA... 
 
-Located in lines 0-0 in TBA..
+I chose to create a event listener to load gallery user commands 
+
+Located in lines 5-10 in assign1.js
 
 # Attributes
 Youtube:
